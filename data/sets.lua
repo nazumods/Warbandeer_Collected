@@ -2252,3 +2252,95 @@ tinsert(ns.Sets, {
     {id = 4288,name="Opulent Treasurescale's Hoard"}, -- classmask=4096,Type=13145,Evoker
   },
 })
+
+tinsert(ns.Sets, {
+  id = 330,
+  name = "Manaforge Omega (Raid Finder)",
+  instance = 16178,
+  release = 11,
+  minLevel = 80,
+  sets = {
+{id = 5148,name="Chains of the Living Weapon"}, -- classmask=1,Type=1641,Warrior
+{id = 5128,name="Vows of the Lucent Battalion"}, -- classmask=2,Type=1641,Paladin
+{id = 5116,name="Midnight Herald's Pledge"}, -- classmask=4,Type=1641,Hunter
+{id = 5136,name="Shroud of the Sudden Eclipse"}, -- classmask=8,Type=1641,Rogue
+{id = 5132,name="Eulogy to a Dying Star"}, -- classmask=16,Type=1641,Priest
+{id = 5100,name="Hollow Sentinel's Vigil"}, -- classmask=32,Type=1641,Death Knight
+{id = 5140,name="Howls of Channeled Fury"}, -- classmask=64,Type=1641,Shaman
+{id = 5120,name="Augur's Ephemeral Plumage"}, -- classmask=128,Type=1641,Mage
+{id = 5144,name="Inquisitor's Feast of Madness"}, -- classmask=256,Type=1641,Warlock
+{id = 5124,name="Crash of Fallen Storms"}, -- classmask=512,Type=1641,Monk
+{id = 5108,name="Ornaments of the Mother Eagle"}, -- classmask=1024,Type=1641,Druid
+{id = 5104,name="Charhound's Vicious Hunt"}, -- classmask=2048,Type=1641,Demon Hunter
+{id = 5112,name="Spellweaver's Immaculate Design"}, -- classmask=4096,Type=1641,Evoker
+  },
+})
+
+tinsert(ns.Sets, {
+  id = 330,
+  name = "Manaforge Omega (Normal)",
+  instance = 16178,
+  release = 11,
+  minLevel = 80,
+  sets = {
+{id = 5145,name="Chains of the Living Weapon"}, -- classmask=1,Type=2015,Warrior
+{id = 5125,name="Vows of the Lucent Battalion"}, -- classmask=2,Type=2015,Paladin
+{id = 5113,name="Midnight Herald's Pledge"}, -- classmask=4,Type=2015,Hunter
+{id = 5133,name="Shroud of the Sudden Eclipse"}, -- classmask=8,Type=2015,Rogue
+{id = 5129,name="Eulogy to a Dying Star"}, -- classmask=16,Type=2015,Priest
+{id = 5097,name="Hollow Sentinel's Vigil"}, -- classmask=32,Type=2015,Death Knight
+{id = 5137,name="Howls of Channeled Fury"}, -- classmask=64,Type=2015,Shaman
+{id = 5117,name="Augur's Ephemeral Plumage"}, -- classmask=128,Type=2015,Mage
+{id = 5141,name="Inquisitor's Feast of Madness"}, -- classmask=256,Type=2015,Warlock
+{id = 5121,name="Crash of Fallen Storms"}, -- classmask=512,Type=2015,Monk
+{id = 5105,name="Ornaments of the Mother Eagle"}, -- classmask=1024,Type=2015,Druid
+{id = 5101,name="Charhound's Vicious Hunt"}, -- classmask=2048,Type=2015,Demon Hunter
+{id = 5109,name="Spellweaver's Immaculate Design"}, -- classmask=4096,Type=2015,Evoker
+  },
+})
+
+tinsert(ns.Sets, {
+  id = 330,
+  name = "Manaforge Omega (Heroic)",
+  instance = 16178,
+  release = 11,
+  minLevel = 80,
+  sets = {
+{id = 5146,name="Chains of the Living Weapon"}, -- classmask=1,Type=13145,Warrior
+{id = 5126,name="Vows of the Lucent Battalion"}, -- classmask=2,Type=13145,Paladin
+{id = 5114,name="Midnight Herald's Pledge"}, -- classmask=4,Type=13145,Hunter
+{id = 5134,name="Shroud of the Sudden Eclipse"}, -- classmask=8,Type=13145,Rogue
+{id = 5130,name="Eulogy to a Dying Star"}, -- classmask=16,Type=13145,Priest
+{id = 5098,name="Hollow Sentinel's Vigil"}, -- classmask=32,Type=13145,Death Knight
+{id = 5138,name="Howls of Channeled Fury"}, -- classmask=64,Type=13145,Shaman
+{id = 5118,name="Augur's Ephemeral Plumage"}, -- classmask=128,Type=13145,Mage
+{id = 5142,name="Inquisitor's Feast of Madness"}, -- classmask=256,Type=13145,Warlock
+{id = 5122,name="Crash of Fallen Storms"}, -- classmask=512,Type=13145,Monk
+{id = 5106,name="Ornaments of the Mother Eagle"}, -- classmask=1024,Type=13145,Druid
+{id = 5102,name="Charhound's Vicious Hunt"}, -- classmask=2048,Type=13145,Demon Hunter
+{id = 5110,name="Spellweaver's Immaculate Design"}, -- classmask=4096,Type=13145,Evoker
+  },
+})
+
+tinsert(ns.Sets, {
+  id = 330,
+  name = "Manaforge Omega (Mythic)",
+  instance = 16178,
+  release = 11,
+  minLevel = 80,
+  sets = {
+{id = 5147,name="Chains of the Living Weapon"}, -- classmask=1,Type=13193,Warrior
+{id = 5127,name="Vows of the Lucent Battalion"}, -- classmask=2,Type=13193,Paladin
+{id = 5115,name="Midnight Herald's Pledge"}, -- classmask=4,Type=13193,Hunter
+{id = 5135,name="Shroud of the Sudden Eclipse"}, -- classmask=8,Type=13193,Rogue
+{id = 5131,name="Eulogy to a Dying Star"}, -- classmask=16,Type=13193,Priest
+{id = 5099,name="Hollow Sentinel's Vigil"}, -- classmask=32,Type=13193,Death Knight
+{id = 5139,name="Howls of Channeled Fury"}, -- classmask=64,Type=13193,Shaman
+{id = 5119,name="Augur's Ephemeral Plumage"}, -- classmask=128,Type=13193,Mage
+{id = 5143,name="Inquisitor's Feast of Madness"}, -- classmask=256,Type=13193,Warlock
+{id = 5123,name="Crash of Fallen Storms"}, -- classmask=512,Type=13193,Monk
+{id = 5107,name="Ornaments of the Mother Eagle"}, -- classmask=1024,Type=13193,Druid
+{id = 5103,name="Charhound's Vicious Hunt"}, -- classmask=2048,Type=13193,Demon Hunter
+{id = 5111,name="Spellweaver's Immaculate Design"}, -- classmask=4096,Type=13193,Evoker
+  },
+})
